@@ -10,7 +10,7 @@
 A simple file handling project in Java
 
 ## Using the application
-Welcome screen displays the application name and the developer details.Concepts Used
+Welcome screen displays the application name and the developer details.Concepts Used such as
  exceptions, collections, and sorting techniques for source code optimization and increased performance
 
 
