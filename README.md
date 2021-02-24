@@ -31,7 +31,8 @@ The details of the user interface are shown to the user. The user has to select 
 
     3. Third option to closes the application
 ##concepts  used :
-*exceptions, collections, and sorting techniques for source code optimization and increased performance	
+
+* exceptions, collections, and sorting techniques for source code optimization and increased performance	
 
 ## Technologies
 Project is created with:
