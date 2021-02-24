@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Using the application](#using-the-application)
+* [Concepts](#concepts)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -30,7 +31,7 @@ The details of the user interface are shown to the user. The user has to select 
          d. Option to navigate back to the main context
 
     3. Third option to closes the application
-##concepts  used :
+##Concepts Used
 
 * exceptions, collections, and sorting techniques for source code optimization and increased performance	
 
