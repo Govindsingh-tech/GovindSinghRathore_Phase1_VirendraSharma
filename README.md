@@ -3,7 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Using the application](#using-the-application)
-* [Concepts](#concepts)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -11,7 +10,8 @@
 A simple file handling project in Java
 
 ## Using the application
-Welcome screen displays the application name and the developer details.
+Welcome screen displays the application name and the developer details.Concepts Used
+ exceptions, collections, and sorting techniques for source code optimization and increased performance
 
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
@@ -31,9 +31,6 @@ The details of the user interface are shown to the user. The user has to select 
          d. Option to navigate back to the main context
 
     3. Third option to closes the application
-##Concepts Used
-
-* exceptions, collections, and sorting techniques for source code optimization and increased performance	
 
 ## Technologies
 Project is created with:
