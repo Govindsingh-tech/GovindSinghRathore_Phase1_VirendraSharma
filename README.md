@@ -11,7 +11,7 @@ A simple file handling project in Java
 
 ## Using the application
 Welcome screen displays the application name and the developer details.Concepts Used such as
- exceptions, collections, and sorting techniques for source code optimization and increased performance
+ exceptions, collections, and sorting techniques for source code optimization and increased performance.
 
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
