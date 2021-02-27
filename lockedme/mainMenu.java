@@ -137,6 +137,7 @@ private static void SearchFile() {
     System.out.println("Enter the file name to get info: ");
     DisplayFiles();
     String name=sc.nextLine();
+	Comparator<String> bool = String.CASE_INSENSITIVE_ORDER;
 	File dir = new File(path + name);
     if (dir.exists()) {
       System.out.println("File name: " + dir.getName()); 
